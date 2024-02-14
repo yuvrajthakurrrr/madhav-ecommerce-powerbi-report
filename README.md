@@ -6,7 +6,8 @@ This project focuses on analyzing ecommerce sales data using Microsoft Power BI,
 
 ## Demo
 
-![demo_interaction](https://github.com/yuvrajthakurrrr/madhav-ecommerce-powerbi-report/assets/39805648/900fc668-c688-46ce-9f1f-649a252431b2)
+![a5541bf2-9ce0-4eca-a5aa-b8ebc2f920a0](https://github.com/yuvrajthakurrrr/madhav-ecommerce-powerbi-report/assets/39805648/bfb7da84-8a32-45e5-94ab-fac520dd4faa)
+
 
 ## Features 🚀
 
