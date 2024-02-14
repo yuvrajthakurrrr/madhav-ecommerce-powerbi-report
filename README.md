@@ -4,7 +4,7 @@
 This project focuses on analyzing ecommerce sales data using Microsoft Power BI, a powerful business analytics tool. The goal of this project is to provide insights into online sales trends, customer behavior, and product performance to help businesses make informed decisions and optimize their sales strategies.
 
 
-##Demo
+## Demo
 
 ![demo_interaction](https://github.com/yuvrajthakurrrr/madhav-ecommerce-powerbi-report/assets/39805648/900fc668-c688-46ce-9f1f-649a252431b2)
 
